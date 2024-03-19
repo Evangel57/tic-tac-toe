@@ -1,0 +1,14 @@
+.cell {
+    width: 70px;
+    height: 70px;
+    border: 3px solid #fff;
+    border-image: linear-gradient(#ff00d9, #2600ff);
+    border-image-slice: 1;
+    color: #ff00bb;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    text-transform: uppercase;
+}
